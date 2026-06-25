@@ -1,0 +1,5 @@
+Name        :  employee
+Password  :  employee
+Mobile       :  employee
+Email         :  employee
+Gender      :  Male

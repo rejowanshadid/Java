@@ -1,0 +1,5 @@
+Name        :  as
+Password  :  as
+Mobile       :  as
+Email         :  as
+Gender      :  Male
