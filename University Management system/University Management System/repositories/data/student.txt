@@ -1,0 +1,4 @@
+103,Mr.genius,genius@aiub.edu,01726485694,Male,20,mirpur-14,0,0.0
+104,Ms.super genius,superGenius@aiub.edu,01826485694,Female,21,mirpur-13,140,3.99
+1997,Mr.Briliant,briliant@aiub.edu,01993403762,Male,30,mirpur-1,0,0.0
+1110,Mr.titpo,titpo@aiub.edu,017658900667,Male,23,Mirput-10,0,0.0

@@ -1,0 +1,1 @@
+102,Mr.arnold,arnold@aiub.edu,01626485694,male,35,mirpur-10,deep learning,3,100000
