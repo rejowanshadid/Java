@@ -16,7 +16,7 @@ Developed by Rejowan Al Shadid & Team | Computer Science & Engineering
 🎓 University Management System (Java)
 An integrated academic management system designed to handle the core administrative and academic operations of a university setting smoothly and efficiently.
 
-Tech Stack: Java, JavaFX/Swing, SQL Database
+Tech Stack: Java, GUI
 
 Key Features:
 
